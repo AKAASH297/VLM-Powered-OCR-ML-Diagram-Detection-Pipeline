@@ -114,5 +114,5 @@ python main.py --input-folder "notes" --output-pdf "output/notes_final.pdf" --di
 | Weak or missing text output | Confirm the model supports vision input and is not in reasoning mode |
 
 ## Example
-![alt text](Demo.png)
-![alt text](./Demo%20Files/image.png)
+![alt text](./Diagram-Aware%20Image%20parsing/Demo%20Files/Demo.png)
+![alt text](./Diagram-Aware%20Image%20parsing/Demo%20Files/image.png)
