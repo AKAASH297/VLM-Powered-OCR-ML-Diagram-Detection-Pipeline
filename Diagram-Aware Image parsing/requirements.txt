@@ -1,0 +1,3 @@
+Pillow
+ultralytics
+reportlab
