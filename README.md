@@ -1,6 +1,6 @@
 # Diagram-Aware Notes to PDF Pipeline
 
-A local **Document AI** pipeline that converts handwritten note images into a clean, structured PDF. It combines a **YOLO-based diagram detection model** with a **vision-capable VLM** for OCR transcription and text cleanup — preserving both written content and visual diagrams in a single consolidated output.
+A local **Document AI** pipeline that converts handwritten note images into a clean, structured PDF. It combines a **YOLO-based diagram detection model** with a **vision-capable VLM** for OCR transcription and text cleanup — preserving both written content and visual diagrams in a single consolidated output. Written mostly in PEP8 Standard.
 
 ---
 
